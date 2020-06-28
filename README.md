@@ -1,12 +1,12 @@
-# PROJECT: HTML Forms ( INTUIT Sign Up Page )
-Hello! **I'm Alexander Nitiola** and this is my **PROJECT: HTML FORMS** from the 
+# PROJECT: POSITIONING AND FLOATING ELEMENTS
+Hello! **I'm Alexander Nitiola** and this is my **PROJECT: POSITIONING AND FLOATING ELEMENTS** from the 
 curriculum of The Odin Project's [curriculum.](https://www.theodinproject.com/courses?ref=homenav)
 
 ## Screenshot of My Work
-![Screenshot](assets/images/screenshoot/space_ripple.jpg)
+![Screenshot](images/screenshoot/space_ripple.jpg)
 
 ## Notes
-- Instructions: [PROJECT: HTML Forms](https://theodinproject.com/courses/html-and-css/lessons/positioning-and-floating-elements)
+- Instructions: [PROJECT: POSITIONING AND FLOATING ELEMENTS](https://theodinproject.com/courses/html-and-css/lessons/positioning-and-floating-elements)
 - Language:  
 **HTML:  78.4%.  
 CSS: 21.6%.**
@@ -14,7 +14,7 @@ CSS: 21.6%.**
 **RESPONSIVE: 
 Not Responsive**
 
-- Click [here](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) to visit INTUIT original page.
+- Click [here](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0) to visit The New York Times original page.
 
 ## What i Learned
 * I gained more experience on how to use CSS Flexbox & Advance Positioning.
