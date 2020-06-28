@@ -19,7 +19,15 @@
     padding: 10px 15px 5px;
 
     border-bottom: 1px solid #d4d4d4;
+    
+    /* Fixed posision Declaration */
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
   }
+
+
 
   .main_nav li {
     list-style: none;
@@ -53,8 +61,8 @@
   .search, .cosmos {
     margin-left: 18px;
   }
-
-  .main_nav .navigation {
+  
+  .navigation {
     display: flex;
     /*border: 1px solid red;  /* Border for Debugging */
     align-items: center;
